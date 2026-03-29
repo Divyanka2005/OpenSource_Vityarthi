@@ -1,6 +1,6 @@
 ================================================================
   MY OPEN SOURCE MANIFESTO
-  By: Divyanka(24BAI10418)
+  By: Divyanka | 24BAI10418
 ================================================================
 
   Every day I rely on github — a tool I did not have to buy,
