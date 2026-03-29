@@ -9,8 +9,8 @@
 # ============================================================
 
 # ── Variables ────────────────────────────────────────────────
-STUDENT_NAME="Aditi Prakash"   # Student's full name
-REG_NO="24BAI10589"                   # Registration number
+STUDENT_NAME="Divyanka"   # Student's full name
+REG_NO="24BAI10418"                   # Registration number
 SOFTWARE_CHOICE="Git"                 # Chosen OSS project
 
 # ── Gather system information using command substitution ─────
