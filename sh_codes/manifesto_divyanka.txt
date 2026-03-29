@@ -1,6 +1,7 @@
- MY OPEN SOURCE MANIFESTO
-  By: Divyanka(24BAI10418)
-  
+================================================================
+  MY OPEN SOURCE MANIFESTO
+  By: Aditi Prakash (24BAI10589)
+  Generated: 26 March 2026 at 04:41
 ================================================================
 
   Every day I rely on github — a tool I did not have to buy,
@@ -27,3 +28,4 @@
 
 ----------------------------------------------------------------
   Course: Open Source Software (NGMC) | VITyarthi 2026
+================================================================
